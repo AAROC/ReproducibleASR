@@ -3,3 +3,4 @@ _site/
 jekyll-on-rails/.gitignore
 db/
 public/
+log/
