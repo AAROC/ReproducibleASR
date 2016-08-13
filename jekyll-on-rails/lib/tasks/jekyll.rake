@@ -1,10 +1,10 @@
 namespace :jekyll do
-  dest = Rails.root.join('public/site')
+  dest = Rails.root.join('public')
 
   options = {
-    'baseurl' => '/site',
+    'baseurl' => '/',
     'config' => Rails.root.join('config', 'jekyll.yml').to_s,
-    'watch' => true,
+    #'watch' => true,
     'port' => 3000,
     'source' => Rails.root.join('site').to_s,
     'destination' => dest.to_s
@@ -13,6 +13,6 @@ namespace :jekyll do
   build = Thread.new { Jekyll::Commands::Build.process(options) }
   serve = Thread.new { Jekyll::Commands::Serve.process(options) }
 
-  commands = [build, serve]
+  commands = [build]
   commands.each { |c| c.join }
 end

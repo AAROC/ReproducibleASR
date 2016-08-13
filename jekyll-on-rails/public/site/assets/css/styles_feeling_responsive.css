@@ -781,28 +781,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 8.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 8.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 16.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 16.66666667%;
     left: auto;
   }
 
@@ -823,28 +823,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 33.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 33.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 41.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 41.66666667%;
     left: auto;
   }
 
@@ -865,28 +865,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 58.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 58.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 66.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 66.66666667%;
     left: auto;
   }
 
@@ -907,28 +907,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 83.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 83.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 91.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 91.66666667%;
     left: auto;
   }
 
@@ -943,12 +943,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-1 {
-    width: 8.33333%;
+    width: 8.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-2 {
-    width: 16.66667%;
+    width: 16.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -958,12 +958,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-4 {
-    width: 33.33333%;
+    width: 33.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-5 {
-    width: 41.66667%;
+    width: 41.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -973,12 +973,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-7 {
-    width: 58.33333%;
+    width: 58.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-8 {
-    width: 66.66667%;
+    width: 66.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -988,12 +988,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-10 {
-    width: 83.33333%;
+    width: 83.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-11 {
-    width: 91.66667%;
+    width: 91.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1008,12 +1008,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 8.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 16.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1023,12 +1023,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 33.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 41.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1038,12 +1038,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 58.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 66.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1053,12 +1053,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 83.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .small-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 91.66666667% !important;
   }
 
   /* line 179, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1141,28 +1141,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 8.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 8.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 16.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 16.66666667%;
     left: auto;
   }
 
@@ -1183,28 +1183,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 33.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 33.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 41.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 41.66666667%;
     left: auto;
   }
 
@@ -1225,28 +1225,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 58.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 58.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 66.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 66.66666667%;
     left: auto;
   }
 
@@ -1267,28 +1267,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 83.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 83.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 91.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 91.66666667%;
     left: auto;
   }
 
@@ -1303,12 +1303,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-1 {
-    width: 8.33333%;
+    width: 8.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-2 {
-    width: 16.66667%;
+    width: 16.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1318,12 +1318,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-4 {
-    width: 33.33333%;
+    width: 33.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-5 {
-    width: 41.66667%;
+    width: 41.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1333,12 +1333,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-7 {
-    width: 58.33333%;
+    width: 58.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-8 {
-    width: 66.66667%;
+    width: 66.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1348,12 +1348,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-10 {
-    width: 83.33333%;
+    width: 83.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-11 {
-    width: 91.66667%;
+    width: 91.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1368,12 +1368,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 8.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 16.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1383,12 +1383,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 33.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 41.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1398,12 +1398,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 58.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 66.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1413,12 +1413,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 83.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .medium-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 91.66666667% !important;
   }
 
   /* line 179, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1500,28 +1500,28 @@ th {
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 8.33333333%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 8.33333333%;
     left: auto;
   }
 
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 16.66666667%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 16.66666667%;
     left: auto;
   }
 
@@ -1542,28 +1542,28 @@ th {
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 33.33333333%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 33.33333333%;
     left: auto;
   }
 
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 41.66666667%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 41.66666667%;
     left: auto;
   }
 
@@ -1584,28 +1584,28 @@ th {
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 58.33333333%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 58.33333333%;
     left: auto;
   }
 
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 66.66666667%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 66.66666667%;
     left: auto;
   }
 
@@ -1626,28 +1626,28 @@ th {
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 83.33333333%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 83.33333333%;
     left: auto;
   }
 
   /* line 261, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 91.66666667%;
     right: auto;
   }
 
   /* line 264, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 91.66666667%;
     left: auto;
   }
 }
@@ -1669,28 +1669,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 8.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 8.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 16.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 16.66666667%;
     left: auto;
   }
 
@@ -1711,28 +1711,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 33.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 33.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 41.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 41.66666667%;
     left: auto;
   }
 
@@ -1753,28 +1753,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 58.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 58.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 66.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 66.66666667%;
     left: auto;
   }
 
@@ -1795,28 +1795,28 @@ th {
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 83.33333333%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 83.33333333%;
     left: auto;
   }
 
   /* line 159, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 91.66666667%;
     right: auto;
   }
 
   /* line 162, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 91.66666667%;
     left: auto;
   }
 
@@ -1831,12 +1831,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-1 {
-    width: 8.33333%;
+    width: 8.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-2 {
-    width: 16.66667%;
+    width: 16.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1846,12 +1846,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-4 {
-    width: 33.33333%;
+    width: 33.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-5 {
-    width: 41.66667%;
+    width: 41.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1861,12 +1861,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-7 {
-    width: 58.33333%;
+    width: 58.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-8 {
-    width: 66.66667%;
+    width: 66.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1876,12 +1876,12 @@ th {
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-10 {
-    width: 83.33333%;
+    width: 83.33333333%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-11 {
-    width: 91.66667%;
+    width: 91.66666667%;
   }
 
   /* line 172, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1896,12 +1896,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 8.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 16.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1911,12 +1911,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 33.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 41.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1926,12 +1926,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 58.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 66.66666667% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -1941,12 +1941,12 @@ th {
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 83.33333333% !important;
   }
 
   /* line 176, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .large-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 91.66666667% !important;
   }
 
   /* line 179, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
@@ -2028,28 +2028,28 @@ th {
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 8.33333333%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 8.33333333%;
     left: auto;
   }
 
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 16.66666667%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 16.66666667%;
     left: auto;
   }
 
@@ -2070,28 +2070,28 @@ th {
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 33.33333333%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 33.33333333%;
     left: auto;
   }
 
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 41.66666667%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 41.66666667%;
     left: auto;
   }
 
@@ -2112,28 +2112,28 @@ th {
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 58.33333333%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 58.33333333%;
     left: auto;
   }
 
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 66.66666667%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 66.66666667%;
     left: auto;
   }
 
@@ -2154,28 +2154,28 @@ th {
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 83.33333333%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 83.33333333%;
     left: auto;
   }
 
   /* line 272, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 91.66666667%;
     right: auto;
   }
 
   /* line 275, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 91.66666667%;
     left: auto;
   }
 }
@@ -3049,7 +3049,7 @@ meta.foundation-mq-topbar {
   color: black;
   width: 75%;
   display: block;
-  padding: 0 1.04167rem;
+  padding: 0 1.04166667rem;
 }
 /* line 219, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar .toggle-topbar {
@@ -3065,7 +3065,7 @@ meta.foundation-mq-topbar {
   font-weight: bold;
   position: relative;
   display: block;
-  padding: 0 1.04167rem;
+  padding: 0 1.04166667rem;
   height: 3.125rem;
   line-height: 3.125rem;
 }
@@ -3078,7 +3078,7 @@ meta.foundation-mq-topbar {
 .top-bar .toggle-topbar.menu-icon a {
   height: 34px;
   line-height: 33px;
-  padding: 0 2.60417rem 0 1.04167rem;
+  padding: 0 2.60416667rem 0 1.04166667rem;
   color: black;
   position: relative;
 }
@@ -3090,7 +3090,7 @@ meta.foundation-mq-topbar {
   height: 0;
   top: 50%;
   margin-top: -8px;
-  right: 1.04167rem;
+  right: 1.04166667rem;
   box-shadow: 0 0 0 1px black, 0 7px 0 1px black, 0 14px 0 1px black;
   width: 16px;
 }
@@ -3150,7 +3150,7 @@ meta.foundation-mq-topbar {
   width: 100%;
   color: black;
   padding: 12px 0 12px 0;
-  padding-left: 1.04167rem;
+  padding-left: 1.04166667rem;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 0.9375rem;
   font-weight: normal;
@@ -3159,8 +3159,8 @@ meta.foundation-mq-topbar {
 /* line 327, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > a.button {
   font-size: 0.9375rem;
-  padding-right: 1.04167rem;
-  padding-left: 1.04167rem;
+  padding-right: 1.04166667rem;
+  padding-left: 1.04166667rem;
   background-color: #334d5c;
   border-color: #293e4a;
   color: white;
@@ -3232,8 +3232,8 @@ meta.foundation-mq-topbar {
 /* line 339, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > button {
   font-size: 0.9375rem;
-  padding-right: 1.04167rem;
-  padding-left: 1.04167rem;
+  padding-right: 1.04166667rem;
+  padding-left: 1.04166667rem;
   background-color: #334d5c;
   border-color: #293e4a;
   color: white;
@@ -3320,7 +3320,7 @@ meta.foundation-mq-topbar {
 }
 /* line 372, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section .has-form {
-  padding: 1.04167rem;
+  padding: 1.04166667rem;
 }
 /* line 375, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section .has-dropdown {
@@ -3335,7 +3335,7 @@ meta.foundation-mq-topbar {
   border: inset 5px;
   border-color: transparent transparent transparent rgba(51, 77, 92, 0.4);
   border-left-style: solid;
-  margin-right: 1.04167rem;
+  margin-right: 1.04166667rem;
   margin-top: -4.5px;
   position: absolute;
   top: 50%;
@@ -3382,7 +3382,7 @@ meta.foundation-mq-topbar {
 /* line 415, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section .dropdown li a {
   font-weight: normal;
-  padding: 8px 1.04167rem;
+  padding: 8px 1.04166667rem;
 }
 /* line 418, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section .dropdown li a.parent-link {
@@ -3405,7 +3405,7 @@ meta.foundation-mq-topbar {
 }
 /* line 435, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section .dropdown li.has-form {
-  padding: 8px 1.04167rem;
+  padding: 8px 1.04166667rem;
 }
 /* line 436, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section .dropdown li .button, .top-bar-section .dropdown li button {
@@ -3413,7 +3413,7 @@ meta.foundation-mq-topbar {
 }
 /* line 439, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
 .top-bar-section .dropdown label {
-  padding: 8px 1.04167rem 2px;
+  padding: 8px 1.04166667rem 2px;
   margin-bottom: 0;
   text-transform: uppercase;
   color: #45b29d;
@@ -3501,7 +3501,7 @@ meta.foundation-mq-topbar {
   }
   /* line 509, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li:not(.has-form) a:not(.button) {
-    padding: 0 1.04167rem;
+    padding: 0 1.04166667rem;
     line-height: 3.125rem;
     background: #fdfdfd;
   }
@@ -3512,7 +3512,7 @@ meta.foundation-mq-topbar {
   }
   /* line 522, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.active:not(.has-form) a:not(.button) {
-    padding: 0 1.04167rem;
+    padding: 0 1.04166667rem;
     line-height: 3.125rem;
     color: black;
     background: #a1d044;
@@ -3524,7 +3524,7 @@ meta.foundation-mq-topbar {
   }
   /* line 537, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .has-dropdown > a {
-    padding-right: 2.29167rem !important;
+    padding-right: 2.29166667rem !important;
   }
   /* line 539, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .has-dropdown > a:after {
@@ -3592,7 +3592,7 @@ meta.foundation-mq-topbar {
     color: black;
     line-height: 3.125rem;
     white-space: nowrap;
-    padding: 12px 1.04167rem;
+    padding: 12px 1.04166667rem;
     background: #45b29d;
   }
   /* line 594, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
@@ -3628,7 +3628,7 @@ meta.foundation-mq-topbar {
   /* line 631, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .has-form {
     background: #fdfdfd;
-    padding: 0 1.04167rem;
+    padding: 0 1.04166667rem;
     height: 3.125rem;
   }
   /* line 639, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_top-bar.scss */
@@ -3936,7 +3936,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .small-block-grid-3 > li {
-    width: 33.33333%;
+    width: 33.33333333%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -3978,7 +3978,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .small-block-grid-6 > li {
-    width: 16.66667%;
+    width: 16.66666667%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -3992,7 +3992,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .small-block-grid-7 > li {
-    width: 14.28571%;
+    width: 14.28571429%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4020,7 +4020,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .small-block-grid-9 > li {
-    width: 11.11111%;
+    width: 11.11111111%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4048,7 +4048,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .small-block-grid-11 > li {
-    width: 9.09091%;
+    width: 9.09090909%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4062,7 +4062,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .small-block-grid-12 > li {
-    width: 8.33333%;
+    width: 8.33333333%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4105,7 +4105,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .medium-block-grid-3 > li {
-    width: 33.33333%;
+    width: 33.33333333%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4147,7 +4147,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .medium-block-grid-6 > li {
-    width: 16.66667%;
+    width: 16.66666667%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4161,7 +4161,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .medium-block-grid-7 > li {
-    width: 14.28571%;
+    width: 14.28571429%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4189,7 +4189,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .medium-block-grid-9 > li {
-    width: 11.11111%;
+    width: 11.11111111%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4217,7 +4217,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .medium-block-grid-11 > li {
-    width: 9.09091%;
+    width: 9.09090909%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4231,7 +4231,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .medium-block-grid-12 > li {
-    width: 8.33333%;
+    width: 8.33333333%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4274,7 +4274,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .large-block-grid-3 > li {
-    width: 33.33333%;
+    width: 33.33333333%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4316,7 +4316,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .large-block-grid-6 > li {
-    width: 16.66667%;
+    width: 16.66666667%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4330,7 +4330,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .large-block-grid-7 > li {
-    width: 14.28571%;
+    width: 14.28571429%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4358,7 +4358,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .large-block-grid-9 > li {
-    width: 11.11111%;
+    width: 11.11111111%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4386,7 +4386,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .large-block-grid-11 > li {
-    width: 9.09091%;
+    width: 9.09090909%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4400,7 +4400,7 @@ meta.foundation-mq-topbar {
 
   /* line 61, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
   .large-block-grid-12 > li {
-    width: 8.33333%;
+    width: 8.33333333%;
     list-style: none;
   }
   /* line 68, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_block-grid.scss */
@@ -4857,7 +4857,7 @@ meta.foundation-mq-topbar {
 .button-group.even-3 li {
   margin: 0 -2px;
   display: inline-block;
-  width: 33.33333%;
+  width: 33.33333333%;
 }
 /* line 39, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_button-groups.scss */
 .button-group.even-3 li > button, .button-group.even-3 li .button {
@@ -4914,7 +4914,7 @@ meta.foundation-mq-topbar {
 .button-group.even-6 li {
   margin: 0 -2px;
   display: inline-block;
-  width: 16.66667%;
+  width: 16.66666667%;
 }
 /* line 39, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_button-groups.scss */
 .button-group.even-6 li > button, .button-group.even-6 li .button {
@@ -4933,7 +4933,7 @@ meta.foundation-mq-topbar {
 .button-group.even-7 li {
   margin: 0 -2px;
   display: inline-block;
-  width: 14.28571%;
+  width: 14.28571429%;
 }
 /* line 39, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/foundation-components/_button-groups.scss */
 .button-group.even-7 li > button, .button-group.even-7 li .button {
@@ -8708,12 +8708,12 @@ body.video cite {
 
 /* line 50, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/_09_elements.scss */
 .shadow-black {
-  text-shadow: rgba(0, 0, 0, 0.49804) 0px 1px 2px;
+  text-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 2px;
 }
 
 /* line 51, /home/becker/Ops/AAROC/ReproducibleASR/jekyll-on-rails/site/_sass/_09_elements.scss */
 .shadow-white {
-  text-shadow: rgba(255, 255, 255, 0.49804) 0px 1px 2px;
+  text-shadow: rgba(255, 255, 255, 0.498039) 0px 1px 2px;
 }
 
 /* Alerts
