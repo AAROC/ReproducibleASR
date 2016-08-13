@@ -1,3 +1,5 @@
 _site/
 .sass-cache/
 jekyll-on-rails/.gitignore
+db/
+public/
