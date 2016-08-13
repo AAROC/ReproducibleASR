@@ -7,8 +7,15 @@
 
 url: 		'http://localhost:3000'
 baseurl: 	'/'
-urlimg: 	'images/'
+urlimg: 	'/images/'
 
+assets:
+  dirname: assets
+  baseurl: '/assets'
+  sources:
+    - assets/stylesheets
+    - assets/javascripts
+    - assets/img
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
   noscript: false

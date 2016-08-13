@@ -161,7 +161,7 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
-  bootstrap-sass (~> 3.3.1)
+  bootstrap-sass
   coffee-rails (~> 4.0.0)
   foundation-rails
   httparty
