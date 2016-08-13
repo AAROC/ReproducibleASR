@@ -22,15 +22,16 @@ $rem-base: $base-font-size;
 $base-line-height: 1.5 !default;
 
 
-$font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: "Volkhov", Georgia, Times, serif;
-$font-family-monospace: "Lucida Console", Monaco, monospace;
+$font-family-header: "Concert One", cursive;
+$font-family-sans-serif: "Lato", sans-serif;
+$font-family-serif: "Scope One", serif;
+$font-family-monospace: 'Ubuntu Mono', monospace;
 
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
-$header-font-family: $font-family-serif;
+$header-font-family: $font-family-header;
 
 
 
