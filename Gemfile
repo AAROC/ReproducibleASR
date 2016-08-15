@@ -36,7 +36,7 @@ gem 'foundation-rails'
 gem 'httparty'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
-
+gem 'nokogiri'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
