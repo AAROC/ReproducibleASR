@@ -8,6 +8,9 @@ class Language < ActiveRecord::Base
     response = HTTParty.post(login_url, :body => body, :header => header)
     token = response['id']
     puts token
+    puts "getting repositories"
+    auth_header = "Authorization: #{token}"
+    repos = HTTParty.get('#{base_uri}/repos/', :header => auth_header)
   end
 
   def self.for term
