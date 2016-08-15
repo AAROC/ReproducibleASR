@@ -8,3 +8,5 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/getting-started/"
 ---
+
+# This is how you get started

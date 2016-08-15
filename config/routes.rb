@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'experiments/view'
+
+  get 'experiments/read'
+
   get 'courses/index'
 
   resources :languages
